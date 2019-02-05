@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<List /> renders without crashing 1`] = `
+<div
+  className="People-list"
+>
+  <div>
+    <img
+      alt="chat icon"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <p>
+      Koren Templeton
+    </p>
+    <p>
+      On stage
+    </p>
+  </div>
+  <div>
+    <img
+      alt="chat icon"
+      src="https://robohash.org/doloredolorescupiditate.jpg?size=200x200&set=set1"
+    />
+    <p>
+      Caty Flucker
+    </p>
+    <p>
+      Off stage
+    </p>
+  </div>
+  <div>
+    <img
+      alt="chat icon"
+      src="https://robohash.org/utlaborumfugit.jpg?size=200x200&set=set1"
+    />
+    <p>
+      Axe Kubicka
+    </p>
+    <p>
+      Off stage
+    </p>
+  </div>
+  <div>
+    <img
+      alt="chat icon"
+      src="https://robohash.org/etexercitationemassumenda.jpg?size=200x200&set=set1"
+    />
+    <p>
+      Frank Runciman
+    </p>
+    <p>
+      Off stage
+    </p>
+  </div>
+  <div>
+    <img
+      alt="chat icon"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <p>
+      Ashla Attwool
+    </p>
+    <p>
+      On stage
+    </p>
+  </div>
+</div>
+`;
