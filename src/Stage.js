@@ -1,13 +1,25 @@
 import React from 'react'
-import ReactDOM from 'react-dom'
+import Store from './STORE'
+
 
 function Stage (){
-    return (
-        <div className="Stage-area">
-        <h2>Name</h2>
-        <img src="Avatar" alt="chat-icon" />
-        </div>
-    )
-};
+
+  const stagePeople = Store.participants.filter((person)=> person.onStage === true);
+
+  return (
+    <div className="Stage">
+
+
+    {stagePeople.map((person) => 
+      
+        <div key ={person.id}> 
+          <img src = {person.avatar} alt="chat icon"/>
+            <p>{person.name}</p>
+      </div>
+)}
+    </div>
+  )
+}
+
 
 export default Stage;

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Stage /> renders without crashing 1`] = `
+<div
+  className="Stage"
+>
+  <div>
+    <img
+      alt="chat icon"
+      src="https://robohash.org/itaquevoluptatumrerum.jpg?size=200x200&set=set1"
+    />
+    <p>
+      Koren Templeton
+    </p>
+  </div>
+  <div>
+    <img
+      alt="chat icon"
+      src="https://robohash.org/iustodoloremqueinventore.jpg?size=200x200&set=set1"
+    />
+    <p>
+      Ashla Attwool
+    </p>
+  </div>
+</div>
+`;

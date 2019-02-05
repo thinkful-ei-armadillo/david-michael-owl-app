@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Chat /> renders without crashing 1`] = `
+<div
+  className="chatBox"
+>
+  <div
+    className="chatEvent"
+  >
+    <p
+      className="name"
+    >
+      Axe Kubicka
+      : 
+      Hello world
+    </p>
+  </div>
+  <div
+    className="chatEvent"
+  >
+    <p
+      className="message"
+    >
+      Wed Jan 30 2019 06:48:04 GMT-0600 (CST)
+      Caty Flucker
+       gave a thumbs-up
+    </p>
+  </div>
+  <div
+    className="chatEvent"
+  >
+    <p
+      className="message"
+    >
+      Wed Jan 30 2019 06:48:04 GMT-0600 (CST)
+      Frank Runciman
+       gave a thumbs-down
+    </p>
+  </div>
+  <div
+    className="chatEvent"
+  >
+    <p
+      className="message"
+    >
+      Wed Jan 30 2019 06:49:04 GMT-0600 (CST)
+      Koren Templeton
+       raised their hand
+    </p>
+  </div>
+  <div
+    className="chatEvent"
+  >
+    <p
+      className="message"
+    >
+      Wed Jan 30 2019 06:49:04 GMT-0600 (CST)
+      Koren Templeton
+       clapped
+    </p>
+  </div>
+  <div
+    className="chatEvent"
+  >
+    <p
+      className="message"
+    >
+      Wed Jan 30 2019 06:49:04 GMT-0600 (CST)
+      Koren Templeton
+       joined
+    </p>
+  </div>
+  <div
+    className="chatEvent"
+  >
+    <p
+      className="message"
+    >
+      Wed Jan 30 2019 06:51:04 GMT-0600 (CST)
+      Axe Kubicka
+       joined the stage
+    </p>
+  </div>
+  <div
+    className="chatEvent"
+  >
+    <p
+      className="message"
+    >
+      Wed Jan 30 2019 06:52:04 GMT-0600 (CST)
+      Axe Kubicka
+       left the stage
+    </p>
+  </div>
+</div>
+`;
